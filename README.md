@@ -7,7 +7,7 @@
 
 You can deploy your own version of OpenCart running on MySQL on Heroku platform in seconds using the Heroku button below:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/technomile/Heroku-OpenCart-MySQL)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/adamaiken89/Heroku-OpenCart-MySQL)
 
 Click [here](http://heroku-opencart-mysql.herokuapp.com/) to see live demo for OpenCart running on MySQL.
 
